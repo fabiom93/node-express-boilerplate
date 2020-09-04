@@ -63,3 +63,4 @@ CVS
 xcuserdata/
 
 .history
+node_modules/
